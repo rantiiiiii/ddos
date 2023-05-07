@@ -1,4 +1,4 @@
-# ddos attack
-𐌋𐌀𐌙𐌄𐌓 ᔦ 
+# 𐌋𐌀𐌙𐌄𐌓 ᔦ 
+ddos
 
 attacker, that floods human's ip within seconds. recommending to use vps.
